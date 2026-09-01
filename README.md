@@ -30,6 +30,8 @@ For a local installation, place this repository directory at:
 ~/.codex/skills/editorial-photo-poster
 ```
 
+Keep `SKILL.md`, `agents/openai.yaml`, and the `assets/` directory together in that location. After installation, invoke `/editorial-photo-poster` with one or more uploaded photographs; each source photo produces one independent poster.
+
 The full behavior and composition contract lives in [`SKILL.md`](SKILL.md). Agent metadata is in [`agents/openai.yaml`](agents/openai.yaml).
 
 ## Repository layout
