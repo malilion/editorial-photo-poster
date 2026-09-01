@@ -8,7 +8,9 @@ An editorial Codex skill for turning each uploaded photograph into one independe
 
 | Rocky shoreline | Waterfront wind turbine |
 |:---:|:---:|
-| <img src="assets/70953-editorial-photo-poster.png" alt="Rocky shoreline editorial photo poster" width="240"> | <img src="assets/70963-editorial-photo-poster.png" alt="Waterfront wind turbine editorial photo poster" width="240"> |
+| <img src="assets/70953-editorial-photo-poster.png" alt="Rocky shoreline editorial photo poster" width="180"> | <img src="assets/70963-editorial-photo-poster.png" alt="Waterfront wind turbine editorial photo poster" width="180"> |
+| Mountain river valley | Riverside mountain town |
+| <img src="assets/S__100474895-editorial-photo-poster.png" alt="Mountain river valley editorial photo poster" width="180"> | <img src="assets/S__100474894-editorial-photo-poster.png" alt="Riverside mountain town editorial photo poster" width="180"> |
 
 ## What it does
 
@@ -37,7 +39,9 @@ The full behavior and composition contract lives in [`SKILL.md`](SKILL.md). Agen
 ├── SKILL.md
 ├── agents/openai.yaml
 ├── assets/70953-editorial-photo-poster.png
-└── assets/70963-editorial-photo-poster.png
+├── assets/70963-editorial-photo-poster.png
+├── assets/S__100474895-editorial-photo-poster.png
+└── assets/S__100474894-editorial-photo-poster.png
 ```
 
 ## Example assets
@@ -46,6 +50,8 @@ The included examples show the intended direction:
 
 - `assets/70953-editorial-photo-poster.png`: a quiet rocky shoreline photograph above a small paper illustration using slate blue, pale sky blue, charcoal, and muted stone beige.
 - `assets/70963-editorial-photo-poster.png`: a waterfront wind turbine photograph above a small paper illustration using cobalt sky blue, muted turquoise, deep charcoal green, and warm off-white.
+- `assets/S__100474895-editorial-photo-poster.png`: a misty mountain river valley with lush foliage, power infrastructure, and a small paper illustration in forest green and river teal.
+- `assets/S__100474894-editorial-photo-poster.png`: a sunlit riverside mountain town with stacked buildings, a rocky stream, and a small paper illustration in forest green, sky blue, brick red, and charcoal.
 
 ## License
 
