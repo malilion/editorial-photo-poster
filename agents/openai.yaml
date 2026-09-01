@@ -1,0 +1,4 @@
+interface:
+  display_name: "Editorial Photo Poster"
+  short_description: "Create separate high-end editorial posters from uploaded photos"
+  default_prompt: "Create one separate 3:4 editorial poster per uploaded photo: preserve the original photo in the exact top half and create a small minimalist hand-drawn paper illustration in the exact bottom half."
