@@ -4,7 +4,11 @@
 
 An editorial Codex skill for turning each uploaded photograph into one independent 3:4 art-publication poster. The source photo remains photographic in the top half, while the bottom half becomes a small, restrained hand-drawn paper illustration derived from the same scene.
 
-![Example editorial photo poster](assets/70953-editorial-photo-poster.png)
+## Examples
+
+![Rocky shoreline editorial photo poster](assets/70953-editorial-photo-poster.png)
+
+![Waterfront wind turbine editorial photo poster](assets/70963-editorial-photo-poster.png)
 
 ## What it does
 
@@ -32,12 +36,16 @@ The full behavior and composition contract lives in [`SKILL.md`](SKILL.md). Agen
 .
 ├── SKILL.md
 ├── agents/openai.yaml
-└── assets/70953-editorial-photo-poster.png
+├── assets/70953-editorial-photo-poster.png
+└── assets/70963-editorial-photo-poster.png
 ```
 
-## Example asset
+## Example assets
 
-`assets/70953-editorial-photo-poster.png` is an example output included to show the intended direction: a quiet rocky shoreline photograph above a small paper illustration using slate blue, pale sky blue, charcoal, and muted stone beige.
+The included examples show the intended direction:
+
+- `assets/70953-editorial-photo-poster.png`: a quiet rocky shoreline photograph above a small paper illustration using slate blue, pale sky blue, charcoal, and muted stone beige.
+- `assets/70963-editorial-photo-poster.png`: a waterfront wind turbine photograph above a small paper illustration using cobalt sky blue, muted turquoise, deep charcoal green, and warm off-white.
 
 ## License
 
