@@ -9,6 +9,12 @@ Create a separate poster for every uploaded photo. Never combine multiple source
 
 When using an image-generation or image-editing tool, use the relevant uploaded photo as the reference for that poster. Make one generation/edit pass per source photo and keep other uploaded photos out of that pass. Do not replace the source with a text-only approximation when the photo is available.
 
+## Input and output handling
+
+- Treat every uploaded photo as an independent source and return the finished posters in the same order as the uploads.
+- If a source photo is missing or cannot be accessed, ask for it instead of inventing a replacement.
+- Present each finished poster as its own image; do not create a contact sheet or collage as a substitute.
+
 ## Composition
 
 - Use a strict 3:4 vertical canvas.
@@ -42,8 +48,8 @@ Avoid colored-pencil, crayon, bleeding-watercolor, pure-line-art, complex realis
 
 Before presenting each result, verify visually that:
 
-1. There is exactly one source photo represented in exactly one poster.
-2. The canvas is vertical 3:4 and the horizontal split is exactly 50:50.
-3. The top half remains recognizably photographic and faithful to the source.
-4. The bottom half is a small, centered, paper-textured illustration derived from the same source, not a second realistic scene.
-5. The illustration uses at most four dominant colors, preserves strong negative space, and contains no unnecessary text or decoration.
+- There is exactly one source photo represented in exactly one poster.
+- The canvas is vertical 3:4 and the horizontal split is exactly 50:50.
+- The top half remains recognizably photographic and faithful to the source.
+- The bottom half is a small, centered, paper-textured illustration derived from the same source, not a second realistic scene.
+- The illustration uses at most four dominant colors, preserves strong negative space, and contains no unnecessary text or decoration.
