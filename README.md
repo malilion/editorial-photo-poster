@@ -6,9 +6,9 @@ An editorial Codex skill for turning each uploaded photograph into one independe
 
 ## Examples
 
-![Rocky shoreline editorial photo poster](assets/70953-editorial-photo-poster.png)
-
-![Waterfront wind turbine editorial photo poster](assets/70963-editorial-photo-poster.png)
+| Rocky shoreline | Waterfront wind turbine |
+|:---:|:---:|
+| <img src="assets/70953-editorial-photo-poster.png" alt="Rocky shoreline editorial photo poster" width="240"> | <img src="assets/70963-editorial-photo-poster.png" alt="Waterfront wind turbine editorial photo poster" width="240"> |
 
 ## What it does
 
