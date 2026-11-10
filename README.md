@@ -61,3 +61,8 @@ The included examples show the intended direction:
 - Prompts, text and images: [CC BY 4.0](LICENSE-CONTENT), © 2026 Malilion.
 
 授權：程式碼採 MIT；提示詞、文字與圖片採 CC BY 4.0（見 LICENSE-CONTENT）。
+
+---
+
+<!-- malilion-ecosystem-footer -->
+<p align="center"><sub>🦁 Part of the <a href="https://github.com/malilion">MaliLion</a> ecosystem · <a href="https://malilion.com">malilion.com</a> · <a href="https://github.com/malilion?tab=repositories">More projects</a></sub></p>
